@@ -1,4 +1,3 @@
-[README_SA.md](https://github.com/user-attachments/files/26351417/README_SA.md)
 # AI-Augmented Security Analysis of Indian Listed Companies
 
 **Course:** Security Analysis (BBAF) | T. A. Pai Management Institute, Bangalore (Batch 2023–2027)  
