@@ -1,0 +1,2 @@
+# AI-Augmented-Security-Analysis-in-Mini-portfolio-of-Indian-listed-companies
+This project conducts an in-depth security analysis of listed Indian companies by combining traditional valuation methods with AI-based tools for sentiment analysis, data extraction, and predictive modelling. The deliverable is a strategically constructed 7-security mini-portfolio (3 bonds + 4 equities) with full investment recommendations.
